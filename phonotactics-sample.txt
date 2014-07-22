@@ -1,0 +1,6 @@
+{FSF|SFS}NNAAYVYANN{FSF|SFS}A
+(C)V(C)->CV(C)
+(CS)V(SE)
+(CCC)V(V)(CCC)
+(C)(C)(C)(V)(C)(C)(C)
+(C)V(C) At least on consonant, must be a stop, unvoiced at start, voiced at end.

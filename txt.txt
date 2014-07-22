@@ -1,0 +1,160 @@
+==GENDER==(declines on noun)
+male  (vanishing)
+female (vanishing)
+neuter
+==PERSON==(declines on pronouns)
+0th "one"
+1st "me"
+2nd "you"
+3rd "them"
+==PSEUDO-CASE==
+reflexive (declines on pronouns)
+==NUMBER==(declines as particle preceding non-proper, non-mass nouns)
+singular definite (the)
+singular present definite (this)
+singular referred definite (that)
+singular indefinite (a)
+paucal indefinite (some)
+paucal definite (some of the)
+plural definite (the, pl)
+plural present definite (these)
+plural referred definite (those)
+plural indefinite (generic plural)
+plural inclusive (used only in pronouns)
+plural exclusive (used only in pronouns)
+superplural indefinite (lots)
+superplural definite (lots of the)
+==CASE==(declines on noun)
+--my map--
+nominative (unmarked)
+accusative (optional; marked, but be careful! most verbs are intransitive and are altered by an adposition, and nouns aren't marked for accusative if they're marked for locative or prepositional!)
+genetive case
+  -uses:
+    possession
+    composition
+    reference
+    description
+    compounding
+adverbial case
+abessive case
+locative family (choose two)
+  internal case
+  external case
+  surface case
+  state case
+  *originating case
+  *positioned case
+  *destination case
+  *transit case
+ - terminative case (up to)
+ - prepositional case
+comitative family
+  comitative-sociative (along)
+  instructive (how)
+  benefactive (for)
+--list--
+nominative  subject (unmarked)
+accusative  object (optional; marked, but be careful! most verbs are intransitive and are altered by an adposition, and nouns aren't marked for accusative if they're marked for locative or prepositional!)
+genetive    possessive/compounding, composition ie "wheel of cheese," referential/description "men of rome, city of rome"
+adverbial   adverbial
+internal-originating  elative     from, out of 
+external-originating  ablative    from, from
+surface-originating   delative    merged with elative
+state-originating     exessive    from a, changed from a
+internal-positioned   inessive    in
+external-positioned   adessive    on/near/at/by
+surface-positioned    superessive at (mostly merged with adessive)
+state-positioned      essive      as a
+internal-destination  illative    into
+external-destination  allative    toward
+surface-destination   sublative   to
+state-destination     translative into a, changed into a
+internal-transit      perlative   through
+external-transit      prosecutive merged with vialis
+surface-transit       vialis      across
+state-transit         prolative   merged with vialis
+terminative up to
+comitative  along with
+instructive by means of
+benefactive for the benefit of
+abessive    without
+==ASPECT==(declines on verb)
+progressive process
+  continuative process and still am
+durative for a time
+inchoative/inceptive start
+intensive intensive
+==OTHER VERB DECLINATIONS==
+infinitive
+nominalized
+==TENSE==(declines on verb)
+distant
+recent
+past
+future
+==MOOD==(declines as particle/preposition; alters grammar; special-case grammar)
+irrealis (none, default)
+subjunctive (suggest)
+conditional (if)
+  potential (probably)
+imperative  (DO)
+interrogative (?)
+==FORMALITY==(declines on pronouns and articles, tweaks grammar to a vastly lesser extent than mood)
+informal
+polite
+formal
+==Phonology==
+m m
+n n
+p p
+t t
+d d
+k k
+s s
+ʃ c
+h h
+l l
+ɾ r
+ɹ r
+j j
+w w
+ʍ w
+i i
+u u
+o o
+ɑ a
+e e
+iː î/ii
+uː û/uu
+oː ô/oo
+ɑː â/aa
+eː ê/ee
+==GRAMMAR==
+--irrealis mood/default order--(conditional and potential use special adpositions)
+  * OVA
+--subjunctive mood--
+  * (prep) AOV (post)
+--imperative mood--
+  * (A)VO
+--interrogative mood--
+  * wonder/inform OVA query
+^ These are all rough. refer to syntax.txt.
+Adverbs (-adv) don't much mind which side of the verb they're on, so long as they're adjacent.
+Adjectives, however, are prepositioned or before.
+--informal register-- no change
+--polite register--
+  * irrealis OVA please, as well pronoun suffix
+  * subjunctive no change
+  * imperative [ex: offer] (A)VO please
+  * interrogative please wonder/inform OVA query thankyou
+--formal register-- pronoun suffix only
+==SYLLABLE STRUCTURE==
+settled on (C)(L)V(D)(E) where
+C=mnptdksc
+D=mnptdksclrw
+E=ptdsc
+L=hlrw
+V=iuoae
+WHERE
+* h//V_V
+* w//u_u

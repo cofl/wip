@@ -1,0 +1,49 @@
+0s
+0pl
+1s
+1pl
+2s
+2pl
+3s
+3pl
+-m
+-n
+-f
+-reflexive
+
+s.def
+s.present.def
+s.referred.def
+s.present.indef
+s.referred.def
+s.indef
+paucal.indef
+paucal.def
+pl.def
+pl.present.def
+pl.referred.def
+pl.present.indef
+pl.referred.indef
+pl.indef
+pl.inc
+pl.exc
+superpl.indef
+superpl.def
+
+-acc    -n
+-gen    -dde
+-adv    -ta
+-inter  -ji
+-exter  -jo
+-surf   -je
+-state  -ja
+-ori    -ttu
+-pos    -tce/-tco/-tca
+-dest   -kka/-kke
+-trans  -pee
+-term   -ost
+-prep   -nna
+-com    -mme
+-instr  -ha
+-ben    -sse
+-abe    -tte

@@ -1,0 +1,112 @@
+The sun shines. -> shine s.def sun
+The sun is shining. -> shine-inf be s.def sun
+The sun shone. -> shine-past s.def sun
+The sun will shine. -> shine-fut s.def sun
+The sun has been shining. -> shine-past-continuative s.def sun
+The sun is shining again. -> shine-inf be again-adv s.def sun
+The sun will shine tomorrow. -> shine-fut s.def sun tomorrow-prep /shine-fut tomorrow-adv s.def sun
+The sun shines brightly. -> shine bright-adv s.def sun /shine s.def sun bright-prep
+The bright sun shines. -> shine s.def bright sun
+The sun is rising now. -> rise s.def bright sun now-prep /rise now-adv s.def bright sun
+All the people shouted. -> shout-past pl.def all person-n
+Some of the people shouted. -> shout-past paucal.def person-n
+Many of the people shouted twice. -> shout-past twice-adv superpl.def person-n /shout-past superpl.def person two time-prep
+Happy people often shout. -> often-prep shout pl.indef happy person-n
+The kitten jumped up. -> up-allative jump s.def kitten-n
+The kitten jumped onto the table. -> table-sublative jump s.def kitten-n up-allative(-prep)
+My little kitten walked away. -> away-allative walk-past (s.def) 1sn-gen little kitten-n
+It's raining. -> rain now-prep /rain now-adv
+The kitten is playing in the rain. -> play-inf be s.def kitten pl.indef rain-inessive
+The rain has stopped. -> cease-past-inf be pl.indef rain
+Soon the rain will stop. -> now-fut-rec stop-fut pl.indef rain
+I hope the rain stops soon. -> hope-prep stop now-fut-rec-adv pl.indef rain 1sn /hope now-fut-rec stop pl.indef rain
+Once wild animals lived here. -> s.def one time here-inessive live-durative-past pl.indef wild animal
+Slowly she looked around. -> slow-adv around look-past 3sf
+Go away! -> go away-allative!
+Let's go! -> 1-pl-n go(-fut-rec)
+You should go. -> 2-s-n go should-prep
+I will be happy to go. -> happy be-fut 1sn go-inf-prep
+He will arrive soon. -> here-illative be-fut-rec 3sm now-fut-rec-prep
+The baby's ball has rolled away. -> away-allative roll-past (s.def) baby-gen ball /roll-past (s.def) baby-gen ball away-allative(-prep)
+The boys are working together. -> work-inf be pl.def (/paucal.def) two boy one-essive(-prep)
+The mist will probably clear away. -> probably-prep clear-fut pl.def mist away-allative.
+Lovely flowers are growing everywhere. -> grow-inf be pl.indef beautiful flower all-adessive(-prep)
+We should eat more slowly. -> should-prep 1pl.n slow-intensive-adv eat-fut
+You have come too soon. -> come 2sn excessively early-prep
+You must write more neatly. -> must-prep 2sn write more neat-prep
+Directly opposite stands a wonderful palace. -> exact.opposite-adessive be s.indef wonder-gen palace
+Henry's dog is lost. -> lost be (s.def) henry-gen dog
+My cat is black. -> black be (s.def) 1sn-gen cat
+The little girl's toy is broken. -> break-past-nomi be s.def little girl-gen toy
+I usually sleep soundly. -> often-prep sleep good-adv 1sn
+The children ran after Jack. -> run-past pl.def child Jack-allative /Jack-allative run-past pl.def child
+I can play after school. -> can-prep play-fut 1sn school-after-prep
+We went to the village for a visit. -> s.def village-illative 1pl.n visit-prep
+We arrived at the river. -> river-adessive arrive-past 1pl.n
+I have been waiting for you. -> wait-durative-inf be-past 1sn 2sn-prep
+The campers sat around the fire. -> s.def fire around-adessive sit-past pl.def camp-er
+A little girl with a kitten sat near me. -> 1sn-adessive sit-past s.def little girl s.def kitten-comitative
+The child waited at the door for her father. -> door-adessive wait-past s.def child (s.def) 3sf-gen father-prep
+Yesterday the oldest girl in the village lost her kitten. -> Yesterday-prep s.def oldest girl (s.def) village-inessive lose-past (s.def) 3sf-gen kitten
+Were you born in this village? -> wonder s.def this village-inessive born-past 2sn query
+Can your brother dance well? -> wonder capable-prep well-adv dance 2sn-gen brother query
+Did the man leave? -> wonder here-elative go-past s.def man query
+Is your sister coming for you? -> wonder here-illative come-fut 2sn-gen sister 2sn-prep query
+Can you come tomorrow? -> wonder here-illative come-fut 2sn tomorrow-prep query
+Have the neighbours gone away for the winter? -> wonder away-allative go-fut pl.def neighbour winter-prep query
+Does the robin sing in the rain? -> wonder pl.indef rain-inessive sing s.def robin query
+Are you going with us to the concert? -> wonder s.def concert-inessive go-fut 2sn 1-pl-n-comitative query
+Have you ever traveled in the jungle? -> wonder travel-past 1sn s.def jungle-inessive query
+We sailed down the river for several miles. -> downriver-allative sail-past 1pl.n paucal.indef mile-prep
+Everybody knows about hunting. -> about hunt-inf know pl.def all-pl-n
+On a sunny morning after the solstice we started for the mountains. -> Sun-ny morning-prep s.def after solstice-prep go-inceptive-past 1pl.n pl.indef mountain-prep
+Tom laughed at the monkey's tricks. -> laugh-past Tom s.def monkey-gen pl.indef trick-prep
+An old man with a walking stick stood beside a fence. -> stand-past s.indef old man s.indef walking.stick-comitative s.indef fence-adessive
+The squirrel's nest was hidden by drooping boughs. -> hide-nomi-acc be-past s.def squirrel-gen nest pl.indef drooping boughs-instructive
+The little seeds waited patiently under the show for the warm spring sun. -> under snow-adessive patient-adv wait-past pl.def little seeds s.def warm springtime sun-prep
+Many little girls with wreathd of flowers on their heads danced around the bonfire. -> s.def around bonfire-adessive dance-past superpl.indef little girl pl.indef flower-gen wreath 3pl.f-gen head-adessive.
+On the top of the hill in a little hut lived a wise old woman. -> s.def top hill-adessive s.def little hut-inessive live-durative-past s.indef wise old woman.
+During our residence in the country we often walked in the pastures. -> while 3pl.n-gen live-past-inf country-inessive pl.indef pasture-inessive walk-past 3pl.n
+When will your guests from the city arrive? -> wonder when-prep arrive-fut pl.indef 2sn-gen guest s.def city-gen-prep query
+Near the mouth of the river, its course turns sharply toward the East. -> s.def rivermouth-adessive, East-allative turn sharply-adv 3sn-gen course
+Between the two lofty mountains lays a fertile valley. -> between pl.def two loft-y mountain-prep be s.indef fertile valley
+==My room is too hot. -> excessive hot be 1sn-gen room.
+Among the wheat grew tall red poppies. -> pl.indef wheat-inessive grow-past pl.indef red tall poppy
+The strong roots of the oak trees were torn from the ground. -> ground-elative rip-past pl.indef strong root pl.indef oak tree-gen
+The sun looked down through the branches upon the children at play. -> pl.indef branch-perlative look-past down-adv s.def sun pl.indef child play-inf-gen-prep
+The west wind blew across my face like a friendly caress. -> 1sn-gen face-vialis blow-past s.def west wind like-prep s.indef friend-ly caress
+The spool of thread rolled across the floor. -> s.def floor-vialis roll-ast s.def thread-gen spool
+A box of growing plants stood in the window. -> s.def windowsill-adessive stand-past s.indef box grow-inf plant-gen.
+I am very happy. -> much happy be 1sn.
+These oranges are juicy. -> juic-y be pl.present.def orange
+Sea water is salty. -> salt-y be pl.indef sea water
+The streets are full of people. fill-inf-past pl.indef person-gen be pl.indef street
+Sugar tastes sweet. -> sweet taste sugar
+The fire feels hot. -> hot feel s.def fire
+The little girl seemed lonely. -> lonely seem-past s.def little girl
+The little boy's father had once been a sailor. -> s.indef sailor be-past once-adv s.def little boy-gen father
+I have lost my blanket. -> 1sn-gen blankey lose-past 1sn.
+A bird has built his nest in an apple tree. -> 3sm-gen nest build-past s.indef bird s.indef apple tree-inessive
+At noon we ate our lunch by the roadside. -> Noon-prep 1pl.n-gen lunch eat-past 1pl.n s.def roadside-adessive
+Mr. Jones made a knife for his little boy. -> knife make-past Jones-Mr 3sm-gen little boy-prep
+Their voices sound very happy. -> much happy sound 3pl.n-gen voice
+Is today Monday? -> wonder Monday be today query
+Have all the leaves fallen from the tree? -> wonder fall-past pl.def all leaf s.def tree-elative query
+Will you be ready on time? -> wonder ready be 2sn on.time-prep query
+Are you waiting for me? -> wonder 1sn-benefactive wait 2sn query
+Is this the first kitten of the litter? -> wonder s.def one-ordinal kitten be s.present.def s.def litter-gen
+Are these shoes too big for you? -> wonder excessive large be pl.present.def shoe 2sn-prep query
+How wide is the river? -> inform wide be s.def river query?
+Sit here by me. -> sit here-adessive 1sn-adessive
+Listen. -> listen
+Keep this secret until tomorrow. -> keep s.present.def secret until tomorrow-prep
+Come with us. -> come 1pl.n-comitative
+Bring your friends. -> bring 2sn-gen pl.indef friend
+Be careful. -> have care
+Have some tea. -> offer have paucal.indef tea please
+Pip and his dog were great friends. -> paucal.indef/pl.indef great friend be-past pip and 3sn-gen dog
+John and Elizabeth are brother and sister. -> brother and sister be John and Elizabeth
+You and I will go together. both-comitative go-fut 1sn and 2sn
+They opened all the doors and windows. -> all pl.indef door and pl.indef windows open-past 3pl.n
+He is small, but strong. -> small be 3sm but strong-prep
+Is this tree and oak or a maple? -> please inform s.indef oak or s.indef maple be s.present.def tree query please
