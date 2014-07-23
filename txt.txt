@@ -1,7 +1,3 @@
-==GENDER==(declines on noun)
-male  (vanishing)
-female (vanishing)
-neuter
 ==PERSON==(declines on pronouns)
 0th "one"
 1st "me"

@@ -1,34 +1,20 @@
-0s
-0pl
-1s
-1pl
-2s
-2pl
-3s
-3pl
--m
--n
--f
--reflexive
+0s  uksa
+0pl ukseja
+1s  mina
+1pl mineja
+2s  sina
+2pl sineja
+3s  tema
+3pl temeja
+-reflexive -luus
 
-s.def
-s.present.def
-s.referred.def
-s.present.indef
-s.referred.def
-s.indef
-paucal.indef
-paucal.def
-pl.def
-pl.present.def
-pl.referred.def
-pl.present.indef
-pl.referred.indef
-pl.indef
-pl.inc
-pl.exc
-superpl.indef
-superpl.def
+s-          i-
+paucal-     ka-
+pl-         neja-
+-present-   -ke-
+-referred-  -tta-/-tte-
+-def        -ne/-na
+-indef      -ma
 
 -acc    -n
 -gen    -dde
