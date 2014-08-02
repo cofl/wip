@@ -78,7 +78,9 @@ abessive    without
 progressive process
   continuative process and still am
 durative for a time
+frequentative repeated action
 inchoative/inceptive start
+cessative stop ;related to the terminative case
 intensive intensive
 ==OTHER VERB DECLINATIONS==
 infinitive
@@ -111,7 +113,7 @@ s s
 h h
 l l
 ɾ r
-ɹ r
+ɾ r
 j j
 w w
 ʍ w
@@ -125,6 +127,9 @@ uː û/uu
 oː ô/oo
 ɑː â/aa
 eː ê/ee
+
+Long vowels may follow long consonants, but long consonants may not follow long vowels. Fricatives, vowels, other.
+
 ==GRAMMAR==
 --irrealis mood/default order--(conditional and potential use special adpositions)
   * OVA
@@ -137,7 +142,8 @@ eː ê/ee
 ^ These are all rough. refer to syntax.txt.
 Adverbs (-adv) don't much mind which side of the verb they're on, so long as they're adjacent.
 Adjectives, however, are prepositioned or before.
---informal register-- no change
+--informal register--
+  * interrogative [no change] mjeti
 --polite register--
   * irrealis OVA please, as well pronoun suffix
   * subjunctive no change

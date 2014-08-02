@@ -6,18 +6,18 @@
 2pl sineja
 3s  tema
 3pl temeja
--reflexive -luus
+-reflexive -lu(u)(s)
 
 s-          i-
 paucal-     ka-
-pl-         neja-
+pl-         n(e)ja-
 -present-   -ke-
 -referred-  -tta-/-tte-
 -def        -ne/-na
 -indef      -ma
 
 -acc    -n
--gen    -dde
+-gen    -de
 -adv    -ta
 -inter  -ji
 -exter  -jo
@@ -25,7 +25,7 @@ pl-         neja-
 -state  -ja
 -ori    -ttu
 -pos    -tce/-tco/-tca
--dest   -kka/-kke
+-dest   -kee
 -trans  -pee
 -term   -ost
 -prep   -nna
@@ -33,3 +33,30 @@ pl-         neja-
 -instr  -ha
 -ben    -sse
 -abe    -tte
+
+polite register pronoun suffix: -rra
+formal register pronoun suffix: -rrose
+
+progressive   -kas(a)
+continuative  -kes(a)
+durative      -pes(a)
+frequentative -nes(a)
+inceptive     -ota
+cessative     -osa
+intensive     -nas(a)
+
+-fut      -tre
+-past     -pre
+-rec/dist -kuu
+
+-inf  -hu
+-nomi -((a)j)n
+-verb -ino
+-ish  -hVsV
+-like -kVpV
+-dim  -ko
+-neg  -ma
+-ful  -djo
+-agent -kcVj
+-comparative  -rrV
+-multiplicative ([num]-times) -sor

@@ -17,7 +17,7 @@ The kitten jumped onto the table. -> table-sublative jump s.def kitten up-allati
 My little kitten walked away. -> away-allative walk-past (s.def) 1sn-gen little kitten-n
 It's raining. -> rain now-prep /rain now-adv
 The kitten is playing in the rain. -> play-inf be s.def kitten pl.indef rain-inessive
-The rain has stopped. -> cease-past-inf be pl.indef rain
+The rain has stopped. -> cease-past-inf be-ces pl.indef rain
 Soon the rain will stop. -> now-fut-rec stop-fut pl.indef rain
 I hope the rain stops soon. -> hope-prep stop now-fut-rec-adv pl.indef rain 1sn /hope now-fut-rec stop pl.indef rain
 Once wild animals lived here. -> s.def one time here-inessive live-durative-past pl.indef wild animal
